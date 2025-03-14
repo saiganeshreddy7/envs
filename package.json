@@ -2,8 +2,12 @@
   "name": "env-manager",
   "displayName": "Environment Variables Manager",
   "description": "Manage system environment variables directly within VSCode",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saiganeshreddy7/envs.git"
+  },
   "version": "0.0.1",
-  "publisher": "your-publisher-name",
+  "publisher": "saiganeshreddy",
   "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.98.0"
